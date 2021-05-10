@@ -54,7 +54,7 @@ while turnOff:
 
         # print(listCompare)
         print(f"Коров: {cows} / Быков: {bulls}")
-        print("====================")
+        print(20 * "=")
 
         if listCompare == listNumbers:  # если совпало то победа
             print("Победа! Вы угадали число!")
